@@ -1,5 +1,7 @@
 # Goldmark Section Wrapper Extension
 
+> [!IMPORTANT]
+>
 > **[DEPRECATED]**
 >
 > The main repository for this project has been moved to [github.com/zmtcreative/gm-sectionwrapper](https://github.com/zmtcreative/gm-sectionwrapper).
